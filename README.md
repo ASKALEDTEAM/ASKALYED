@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```git clone https://github.com/ASKALYDTEAM/askalyd && cd askalyd && chmod +x install.sh && ./install.sh```
+```https://github.com/ASKALEDTEAM/ASKALYED && cd askalyd && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
